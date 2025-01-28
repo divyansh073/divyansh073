@@ -10,13 +10,15 @@ Hi, I'm Divyanshi
 My name is Divyanshi .I am first year Masters of computer application student at galgotias university.
 
 ## Education 
-Highschool 
+>Highschool 
 Kendriya vidyalaya no.3 jhansi|2019
 percentage:77.8
-Intermediate 
+
+>Intermediate 
 Kendriya vidyalaya no.3 jhansi|2021
 percentage:86.16
-Graduation B.Sc(maths)
+
+>Graduation B.Sc(maths)
 Bundelkhand Universit|2021-2024
 CGPA:7.01
 
