@@ -19,7 +19,7 @@ Kendriya vidyalaya no.3 jhansi|2021
 percentage:86.16
 
 >Graduation B.Sc(maths)
-Bundelkhand Universit|2021-2024
+Bundelkhand University|2021-2024
 CGPA:7.01
 
 ## Skills
