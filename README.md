@@ -28,13 +28,6 @@ CGPA:7.01
 - DBMS 
 
 
-
-
-## GitHub Stats
-
-![Divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyansh073&show_icons=true&theme=radical)
-
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/divyanshi-97b05b333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
